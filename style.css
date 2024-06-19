@@ -1,0 +1,16 @@
+/* #img {
+    height: 100vh;
+    background: url("img.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+.Container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    height: 600px;
+    background-color: red;
+}
